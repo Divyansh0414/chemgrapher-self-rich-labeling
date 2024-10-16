@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: ChemGrapher
+Version: 0.1.0
+Summary: ChemGrapher package
+Home-page: 
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: pandas
+Requires-Dist: sklearn
+Requires-Dist: requests
+Requires-Dist: bs4
+Requires-Dist: scikit-image
+Requires-Dist: opencv-python
+
+Optical Graph Recognition of Chemical Compounds by Deep Learning
